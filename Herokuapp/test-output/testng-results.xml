@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3386" started-at="2019-01-31T18:52:03Z" finished-at="2019-01-31T18:52:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3386" started-at="2019-01-31T18:52:03Z" finished-at="2019-01-31T18:52:06Z">
+      <class name="tests.VerifyBrokenImagesPage">
+        <test-method status="PASS" signature="startSuite()[pri:0, instance:tests.VerifyBrokenImagesPage@3e6fa38a]" name="startSuite" is-config="true" duration-ms="10231" started-at="2019-01-31T18:51:53Z" finished-at="2019-01-31T18:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.VerifyBrokenImagesPage@3e6fa38a]" name="beforeTest" is-config="true" duration-ms="137" started-at="2019-01-31T18:52:03Z" finished-at="2019-01-31T18:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.VerifyBrokenImagesPage@3e6fa38a]" name="beforeClass" is-config="true" duration-ms="71" started-at="2019-01-31T18:52:03Z" finished-at="2019-01-31T18:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.VerifyBrokenImagesPage@3e6fa38a]" name="beforeMethod" is-config="true" duration-ms="1006" started-at="2019-01-31T18:52:03Z" finished-at="2019-01-31T18:52:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.VerifyBrokenImagesPage.verifyIfImagesAreBroken()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyIfImagesAreBroken()[pri:0, instance:tests.VerifyBrokenImagesPage@3e6fa38a]" name="verifyIfImagesAreBroken" duration-ms="187" started-at="2019-01-31T18:52:04Z" finished-at="2019-01-31T18:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfImagesAreBroken -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.VerifyBrokenImagesPage@3e6fa38a]" name="afterMethod" is-config="true" duration-ms="951" started-at="2019-01-31T18:52:05Z" finished-at="2019-01-31T18:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.VerifyBrokenImagesPage@3e6fa38a]" name="afterTest" is-config="true" duration-ms="1002" started-at="2019-01-31T18:52:05Z" finished-at="2019-01-31T18:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:tests.VerifyBrokenImagesPage@3e6fa38a]" name="afterSuite" is-config="true" duration-ms="598" started-at="2019-01-31T18:52:07Z" finished-at="2019-01-31T18:52:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.VerifyBrokenImagesPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
